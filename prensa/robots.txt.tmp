@@ -1,0 +1,6 @@
+# Block Baidu
+User-agent: Baiduspider
+Disallow: /ciudad/servicios/buscar*
+
+User-agent: *
+Disallow: /api/
